@@ -1,1 +1,1 @@
-# Start of script
+# Initial line for conflict demo
